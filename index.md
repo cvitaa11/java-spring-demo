@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - Java Spring Demo
 
 You can use the [editor on GitHub](https://github.com/cvitaa11/java-spring-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
